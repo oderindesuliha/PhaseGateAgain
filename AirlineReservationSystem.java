@@ -34,23 +34,3 @@ public class AirlineReservationSystem{
 
 
 
-
-
-/*public class AirlineReservationApp {
-    
-    static boolean[] type1Seats = new boolean[5];
-    
-
-    static boolean[][] type2Seats = new boolean[2][];
-    
-    static {
-        type2Seats[0] = new boolean[6]; // first row: 6 seats
-        type2Seats[1] = new boolean[5]; // second row: 5 seats
-    }
-    
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        while (true) {
-            System.out.println("\nAirline Reservation System");
-            System.out.println("1. Reserve*/
-
